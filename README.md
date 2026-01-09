@@ -5,3 +5,34 @@
 An interactive Power BI dashboard designed to analyze and visualize crowdfunding campaign performance.
 This project helps stakeholders understand funding trends, campaign success rates, backer behavior, and category-wise performance using data-driven insights
 
+
+🎯 Project Objective
+
+To transform raw crowdfunding data into meaningful insights that answer key business questions such as:
+
+Which campaigns are most successful?
+
+What factors influence campaign success?
+
+How do funding patterns vary across categories, regions, and time?
+
+🧩 Dataset Overview
+
+The dataset contains information about crowdfunding campaigns, including:
+
+Campaign Name
+
+Category & Sub-Category
+
+Goal Amount
+
+Pledged Amount
+
+Number of Backers
+
+Campaign Status (Successful / Failed / Canceled)
+
+Launch Date & Deadline
+
+Country & Currency
+
