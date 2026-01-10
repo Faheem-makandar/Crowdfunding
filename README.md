@@ -36,3 +36,16 @@ Launch Date & Deadline
 
 Country & Currency
 
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Calculated Columns & Measures)
+
+Excel / CSV Dataset
+
+
+
