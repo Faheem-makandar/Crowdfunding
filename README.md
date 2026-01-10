@@ -48,4 +48,18 @@ DAX (Calculated Columns & Measures)
 Excel / CSV Dataset
 
 
+🔄 Data Preparation Steps
+
+Removed null and duplicate records
+
+Converted date fields into proper date format
+
+Created calculated columns for:
+
+Campaign Duration
+
+Funding Percentage
+
+Standardized categories and currency values
+
 
