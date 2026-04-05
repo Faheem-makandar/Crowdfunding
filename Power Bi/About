@@ -1,0 +1,90 @@
+📊 Kickstarter Crowdfunding Dashboard (Power BI)
+📌 Project Overview
+
+This project presents an interactive Kickstarter Crowdfunding Dashboard built using Power BI to analyze project performance, funding trends, and success rates across different categories, countries, and time periods.
+
+The goal of this project is to transform raw crowdfunding data into meaningful insights that help understand:
+
+What makes a project successful
+Which categories perform best
+Funding patterns over time
+🎯 Objective
+Analyze crowdfunding trends over the years
+Identify top-performing projects and categories
+Compare successful vs failed projects
+Track funding performance across countries
+Enable interactive filtering for deeper insights
+📂 Dataset
+Source: Kickstarter dataset (public dataset)
+Data includes:
+Project Name
+Category & Subcategory
+Country
+Goal Amount
+Pledged Amount
+Backers Count
+Launch Date & Deadline
+Project Status (Successful/Failed)
+📊 Dashboard Features
+🔢 Key KPIs
+💰 Total Funds Raised: 3.86 Billion
+👥 Total Backers: 44.52 Million
+✅ Successful Projects: 140.3K
+💸 Total Amount Pledged: 4.76 Billion
+📦 Total Projects: 365.9K
+🎯 Total Goal: 18.38 Billion
+📈 Visualizations
+Top 10 Projects by Pledged Amount
+Highlights highest funded projects
+Helps identify successful campaign patterns
+Top Projects by Country
+Shows geographical distribution of projects
+US dominates crowdfunding activity
+Total Pledged by Category & State
+Compares successful vs failed projects across categories
+Total Projects by Year & Quarter
+Time-series analysis of project trends
+Peak observed around 2014–2016
+Category Distribution (Tree Map)
+Film & Video, Publishing, Music lead the market
+🎛️ Filters & Interactivity
+📅 Quarter Filter (Q1–Q4)
+🌍 Country Filter
+📆 Year Slider
+
+These filters allow users to dynamically explore the data and gain customized insights.
+
+🛠️ Tools & Technologies
+Power BI
+Data Cleaning & Transformation (Power Query)
+DAX (Data Analysis Expressions)
+Data Visualization Techniques
+📌 Key Insights
+🎬 Film & Video and Publishing are top-performing categories
+🇺🇸 Majority of projects come from the United States
+📉 Many projects fail to meet their funding goals
+📈 Rapid growth observed between 2012–2015
+💡 Successful projects tend to have higher backer engagement
+🚀 How to Use
+Open the .pbix file in Power BI Desktop
+Use filters (Quarter, Year, Country)
+Hover over visuals for detailed insights
+Analyze trends and patterns interactively
+📷 Dashboard Preview
+
+(Add your screenshot here when uploading to GitHub)
+
+💡 Future Improvements
+Add predictive analysis for project success
+Include sentiment analysis from project descriptions
+Build a recommendation system for campaign creators
+🤝 Conclusion
+
+This dashboard helps stakeholders understand crowdfunding dynamics and make data-driven decisions. It demonstrates strong skills in:
+
+Data Analysis
+Visualization
+Business Insight Generation
+📬 Connect with Me
+
+If you liked this project, feel free to connect and give feedback!
