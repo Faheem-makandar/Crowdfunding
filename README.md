@@ -1,12 +1,12 @@
 # Crowdfunding
 
-📊 Crowdfunding Analytics Dashboard (Power BI)
+Crowdfunding Analytics Dashboard (Power BI)
 
 An interactive Power BI dashboard designed to analyze and visualize crowdfunding campaign performance.
 This project helps stakeholders understand funding trends, campaign success rates, backer behavior, and category-wise performance using data-driven insights
 
 
-🎯 Project Objective
+# Project Objective
 
 To transform raw crowdfunding data into meaningful insights that answer key business questions such as:
 
@@ -16,7 +16,7 @@ What factors influence campaign success?
 
 How do funding patterns vary across categories, regions, and time?
 
-🧩 Dataset Overview
+# Dataset Overview
 
 The dataset contains information about crowdfunding campaigns, including:
 
@@ -37,7 +37,7 @@ Launch Date & Deadline
 Country & Currency
 
 
-🛠 Tools & Technologies
+# Tools & Technologies
 
 Power BI Desktop
 
@@ -48,7 +48,7 @@ DAX (Calculated Columns & Measures)
 Excel / CSV Dataset
 
 
-🔄 Data Preparation Steps
+# Data Preparation Steps
 
 Removed null and duplicate records
 
